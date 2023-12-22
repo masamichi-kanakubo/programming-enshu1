@@ -17,15 +17,6 @@ message()
 print('村長', end='')
 message()
 
-"""
-def response(person):
-    print(f'{person}「ぐうぐう すやすや」')
-    return 
 
-response('村人A')
-response('村人B')
-response('宿屋')
-response('村長')
-"""
     
     

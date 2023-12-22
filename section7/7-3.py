@@ -38,8 +38,3 @@ while decision:
         print(f'ゴーレムのHP:{hp}')
 
 
-"""
-入力に関する例外処理の実行を補足している
-intで受けているので文字が入ったときはValueErrorを返す
-optionでは1がかえったときにFalseで処理を終わらせる
-"""
