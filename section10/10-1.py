@@ -21,9 +21,3 @@ for idx in range(len(defenses)):
     else:
         print(f'コカトリス{idx+1}に{damage}のダメージ！')
         
-"""
-indexの指定はおそらく
-for idx in range(0, len(denfenses)):
-としてidx+1で表示するほうが直観的だと思われる
-初期値を１にすると, 設定することが増えるので読むのも面倒な気がする
-"""

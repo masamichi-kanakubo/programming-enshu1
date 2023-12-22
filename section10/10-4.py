@@ -17,13 +17,3 @@ for idx in range(len(hps)):
     print(f'プレイヤー{idx+1}のHP:{hps[idx]}')
 
 
-"""
-forループでプレイヤーのHPを表示するところは
-二回同じことをしているので関数にしたほうがよい
-def parameter(hps):
-    for idx in range(len(hps)):
-        print(f'プレイヤー{idx+1}のHP:{hps[idx]}')
-    return hps
-    
-parameter(hps)
-"""
