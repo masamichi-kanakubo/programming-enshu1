@@ -16,8 +16,3 @@ stages = [
 for stage in stages:
     print(stage)
     
-"""
-hungmanゲームと同様に
-マッピングはリスト表示で行う
-print文は処理が多くなるかつダサいので採用しない
-"""
