@@ -11,7 +11,17 @@
 - Pyrhon3.11.3
 
 ## クイックスタート
-### リポジトリのクローン
+
+### 1. 新しいプロジェクトを作成
 ```
-git clone 
+mkdir python_class_project
+cd python_class_project
 ```
+まずターミナルを開いてディレクトリを作成し、プロジェクトを開始します。`python_class_project`の部分は好きな名前をつけてください。
+
+
+### 2. リポジトリをローカル環境にクローン
+```
+git clone https://github.com/masamichi-kanakubo/programming-enshu1.git
+```
+ターミナルから作成したプロジェクトにこのリポジトリをクローンします。上記のコードを実行してください。
