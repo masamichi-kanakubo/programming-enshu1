@@ -1,4 +1,4 @@
-# プログラミング演習１解答例
+# プログラミング演習１解答例(2023年度)
 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,git)](https://skillicons.dev)
 
@@ -27,3 +27,8 @@ cd python_class_project
 git clone https://github.com/masamichi-kanakubo/programming-enshu1.git
 ```
 ターミナルから作成したプロジェクトにこのリポジトリをクローンします。上記のコードを実行してください。
+
+
+## 連絡先
+もし不明点や間違いがある場合は以下のメールアドレスまでお願いします。\n
+個人: renlijinjiubao808@gmail.com
