@@ -30,5 +30,5 @@ git clone https://github.com/masamichi-kanakubo/programming-enshu1.git
 
 
 ## 連絡先
-もし不明点や間違いがある場合は以下のメールアドレスまでお願いします。\n
+もし不明点や間違いがある場合は以下のメールアドレスまでお願いします。
 個人: renlijinjiubao808@gmail.com
