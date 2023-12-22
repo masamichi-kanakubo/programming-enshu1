@@ -5,7 +5,7 @@ damageなどで演算をif文に入れずに変数としていっかつで扱う
 できるだけ一つの式の中にある変数は減らす, コードを短くする
 
 ## 5-2
-```
+```py
 if lv1 >= lv2 and lv1 >= lv3 and lv1 >= lv4:
     max = lv1
 elif lv2 >= lv1 and lv2 >= lv3 and lv2 >= lv4:
