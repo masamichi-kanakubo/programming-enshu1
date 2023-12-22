@@ -1,5 +1,7 @@
 # プログラミング演習１解答例
 
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,git)](https://skillicons.dev)
+
 ## 概要
 立命館大学情報理工学部FSDコースの１回生必修科目「プログラミング演習１」のソースコードです。授業の演習で解法に困ったとき使用するのに便利です。
 
