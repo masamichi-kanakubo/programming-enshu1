@@ -25,5 +25,25 @@ for char in ciphertext:
 
 ロジック部分はシンプルな処理で通す。取得した`idx`と自分がずらしたい分の`shift`の差分を与えられた(アルファベット＋特殊文字)で割り、０以下即ちAより前になった場合、-に戻るようにしたいので逆に-からどのくらい離れているかという発想で`decrypted_idex`は考える。また文字列が-をこえる場合その逆を考えれば良い。
 
-
-
+## 16-2
+基礎的な`while`ループの問題。次の処理がかけていればOK
+```py
+mistake = 0
+while mistake < 5:
+    print('わしが思い浮かべた数を当ててみよ。')
+    try:
+        answer = int(input('いくつだと思う:'))
+    except ValueError:
+        print('無効な入力です。')
+        exit()
+    if answer == value:
+        print('正解じゃ。通るが良い')
+        break
+    elif answer < value:
+        print('もっと大きいわい')
+        mistake += 1
+    else:
+        print('もっと少ないわい')
+        mistake += 1
+```
+`mistake`はwhileループでお馴染みのフラグである。whileの基本的な考え方はこのフラグがTrueになる条件で中の処理を書いていくことである。おそらく想定している間違いであるwhileの外でinput関数を使ってしまうことを避けたい。
