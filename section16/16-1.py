@@ -28,11 +28,3 @@ ciphertext = "qdq-gi.q-a ziatmxxitmdqibtqi-ustbi ri.qmoqrcxi.qbubu zir -ibtqi-qp
 shift = 12
 decrypted_text = caesar_decrypt(ciphertext, shift)
 print("解読されたテキスト:", decrypted_text)
-
-
-'''
-shift = 12
-があたってそう
-Every person shall have the right to equal opportunities in all the fields, all the development, all the laws, ordinances, regulations, and all the matters..
-という文
-'''
