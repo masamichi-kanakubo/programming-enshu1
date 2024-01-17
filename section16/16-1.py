@@ -28,3 +28,4 @@ ciphertext = "qdq-gi.q-a ziatmxxitmdqibtqi-ustbi ri.qmoqrcxi.qbubu zir -ibtqi-qp
 shift = 12
 decrypted_text = caesar_decrypt(ciphertext, shift)
 print("解読されたテキスト:", decrypted_text)
+
